@@ -1,28 +1,41 @@
-# 💼 Job Portal
+## 💼 Job Portal
 
-A full-stack job portal web application built using the **MERN stack**. Users can search and apply for jobs, while companies (admin) can post and manage job listings.
-
----
-
-## 🚀 Tech Stack
-
-- **Frontend**: React.js, Redux
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB
-- **Authentication**: JWT (JSON Web Token)
+A full-stack MERN application for managing and applying to jobs — with role-based access for users and admins.
 
 ---
 
-## 📌 Features
+### ⚙️ Tech Stack
 
-- User Sign Up / Login
-- Role-based access (Admin & User)
-- Job listing and filtering
-- Job application system
-- Admin panel for managing jobs and companies
+- React.js (Frontend)
+- Node.js + Express.js (Backend)
+- MongoDB (Database)
+- Redux Toolkit
+- Tailwind CSS
+- JWT Authentication
+
+---
+
+### 📌 Features
+
+- User Signup / Login
+- Apply for Jobs
+- Admin Dashboard
+- Post & Manage Jobs
+- Company Setup & Management
+- Job Filters, Search & Category View
 - Responsive UI
 
 ---
 
+### 🧠 What I Learned
 
+- Full-stack Web Development (MERN)
+- State Management using Redux
+- Authentication & Authorization (JWT)
+- REST API integration
+- Modular Folder Structure
+  
+---
 
+🙋‍♂️ About Me
+Hi, I'm Nishant Kumar Kushwaha, a B.Tech student passionate about Java & Full-Stack Development.
