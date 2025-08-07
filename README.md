@@ -24,5 +24,5 @@ A full-stack job portal web application built using the **MERN stack**. Users ca
 
 ---
 
-## 📁 Folder Structure
+
 
